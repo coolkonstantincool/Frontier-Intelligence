@@ -1,0 +1,802 @@
+[
+  {
+    "project_id": "0601_Binder",
+    "project_name": "Binder",
+    "archetype": "Identity Wallet",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 9
+  },
+  {
+    "project_id": "1216_amongsol",
+    "project_name": "amongsol",
+    "archetype": "Social Deduction Game",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "2234_Pentagon Protocol",
+    "project_name": "Pentagon Protocol",
+    "archetype": "Platform for incentivized vulnerability discovery and remediation.",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "2333_AICW — AI-Controlled Wallet Standard",
+    "project_name": "AICW — AI-Controlled Wallet Standard",
+    "archetype": "",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "2354_MGO",
+    "project_name": "MGO",
+    "archetype": "Cooperative Relay Game",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "2516_Obsidia  Real-time intelligence for traders",
+    "project_name": "Obsidia  Real-time intelligence for traders",
+    "archetype": "",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "2612_LoanIQ – Real-Time Automated Loan Approval System",
+    "project_name": "LoanIQ – Real-Time Automated Loan Approval System",
+    "archetype": "Lending Protocol",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "2749_TokenSight AI",
+    "project_name": "TokenSight AI",
+    "archetype": "AI Trading Copilot",
+    "same_tech_diff_product": 15,
+    "same_product_diff_tech": 15,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0010_9thArc",
+    "project_name": "9thArc",
+    "archetype": "User-Generated Content Gaming Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0015_nexpay",
+    "project_name": "nexpay",
+    "archetype": "Payment Network",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 9
+  },
+  {
+    "project_id": "0016_Ajo",
+    "project_name": "Ajo",
+    "archetype": "Protocol for Digitized Rotating Savings Clubs",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 7
+  },
+  {
+    "project_id": "0017_YesNo",
+    "project_name": "YesNo",
+    "archetype": "Prediction Market",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0018_LegacyLink",
+    "project_name": "LegacyLink",
+    "archetype": "Digital Inheritance Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 5
+  },
+  {
+    "project_id": "0021_Payshield",
+    "project_name": "Payshield",
+    "archetype": "AI Agent Service Discovery Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0024_Nexaris",
+    "project_name": "Nexaris",
+    "archetype": "Decentralized Compute Network",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0026_AUTOSUP",
+    "project_name": "AUTOSUP",
+    "archetype": "Supply Chain Automation Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0030_Arcane Institutional confidential finance on Solana",
+    "project_name": "Arcane Institutional confidential finance on Solana",
+    "archetype": "Confidential Finance Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0037_16Signals",
+    "project_name": "16Signals",
+    "archetype": "Verifiable Credential Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 9
+  },
+  {
+    "project_id": "0038_CTO (5dlabs)",
+    "project_name": "CTO (5dlabs)",
+    "archetype": "Agentic Development Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0039_SolDonate",
+    "project_name": "SolDonate",
+    "archetype": "Transparent Donation Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0040_Amplified",
+    "project_name": "Amplified",
+    "archetype": "Leverage Trading Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0041_AgentVault - Treasury & budget protocol for autonomous AI agents on Solana",
+    "project_name": "AgentVault - Treasury & budget protocol for autonomous AI agents on Solana",
+    "archetype": "AI Agent Wallet Manager",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0046_Synxed Music",
+    "project_name": "Synxed Music",
+    "archetype": "Music Gaming Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0053_GameChain",
+    "project_name": "GameChain",
+    "archetype": "Gaming Credential Network",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0054_Pyra",
+    "project_name": "Pyra",
+    "archetype": "Investment Account with Credit Line",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0059_Brain Drain",
+    "project_name": "Brain Drain",
+    "archetype": "Protocol for AI agents to pay human experts for knowledge.",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0065_SagaPad",
+    "project_name": "SagaPad",
+    "archetype": "Decentralized Launchpad",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0066_21ERBOOT",
+    "project_name": "21ERBOOT",
+    "archetype": "Habit Tracking & Accountability System",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 6
+  },
+  {
+    "project_id": "0071_bu-zhai",
+    "project_name": "bu-zhai",
+    "archetype": "AI Companion Agent",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0074_Alerith",
+    "project_name": "Alerith",
+    "archetype": "Fantasy Massively Multiplayer Online Role-Playing Game",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0075_SolaRun",
+    "project_name": "SolaRun",
+    "archetype": "On-chain Event Management and Prize Distribution",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0077_Sivoway",
+    "project_name": "Sivoway",
+    "archetype": "Creator Payment Settlement Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0078_POOL",
+    "project_name": "POOL",
+    "archetype": "Shared Financial Pool Manager",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0079_Ascertainty",
+    "project_name": "Ascertainty",
+    "archetype": "Tokenized Asset Financing Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0081_RiskClaw",
+    "project_name": "RiskClaw",
+    "archetype": "DeFi Risk Policy Enforcer",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0082_AutoOps",
+    "project_name": "AutoOps",
+    "archetype": "AI-driven platform for automating financial operations and treasury management.",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0089_Beanstalk Finance",
+    "project_name": "Beanstalk Finance",
+    "archetype": "Tokenized Asset Investment Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0093_Adler",
+    "project_name": "Adler",
+    "archetype": "Bounty Marketplace",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0101_Fully automated AI meme tradingtbot",
+    "project_name": "Fully automated AI meme tradingtbot",
+    "archetype": "Autonomous AI Agent for Task Automation",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0102_Bubble_G",
+    "project_name": "Bubble_G",
+    "archetype": "Retail Operating System",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0106_TuPack",
+    "project_name": "TuPack",
+    "archetype": "Platform for monetizing in-game assets and competitive gameplay.",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0107_Palmos",
+    "project_name": "Palmos",
+    "archetype": "AI Agent Payment Operating System",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0108_sentinal scouts",
+    "project_name": "sentinal scouts",
+    "archetype": "Autonomous Trading Agent",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0109_Hivework",
+    "project_name": "Hivework",
+    "archetype": "Decentralized Performance Marketing Network",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0111_Terrova",
+    "project_name": "Terrova",
+    "archetype": "Decentralized Agricultural Claim Verifier",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0118_Serout Intelligent Onchain Routing",
+    "project_name": "Serout Intelligent Onchain Routing",
+    "archetype": "Educational content on software development principles",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0119_Chipi Pay",
+    "project_name": "Chipi Pay",
+    "archetype": "Private Yield Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0120_Circles",
+    "project_name": "Circles",
+    "archetype": "Group Savings Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0126_Dynamic Anti MEV",
+    "project_name": "Dynamic Anti MEV",
+    "archetype": "Execution Intelligence Layer for On-chain Market Makers",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0128_Sovereign OS Vault by zkAGI",
+    "project_name": "Sovereign OS Vault by zkAGI",
+    "archetype": "Secure Signing Module",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0131_April Gate",
+    "project_name": "April Gate",
+    "archetype": "On-chain verification layer for physical world data integrity.",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0134_Vela",
+    "project_name": "Vela",
+    "archetype": "RWA Yield Aggregator",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0139_RootLens",
+    "project_name": "RootLens",
+    "archetype": "AI Training Data Generation Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0141_Akca Network",
+    "project_name": "Akca Network",
+    "archetype": "Decentralized VPN Service",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0146_Chord Finance",
+    "project_name": "Chord Finance",
+    "archetype": "Decentralized Savings Circle",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 7
+  },
+  {
+    "project_id": "0149_Nexwork",
+    "project_name": "Nexwork",
+    "archetype": "AI Agent Task Marketplace",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0159_Nyxbid",
+    "project_name": "Nyxbid",
+    "archetype": "Sealed Bid OTC Venue",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0163_SmarTrust",
+    "project_name": "SmarTrust",
+    "archetype": "Freelance Work Management Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0166_chirp",
+    "project_name": "chirp",
+    "archetype": "Merchant Crypto Payment System",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0169_autoHODL",
+    "project_name": "autoHODL",
+    "archetype": "Dollar-Cost Averaging Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0174_MIGO Migraine Tracker",
+    "project_name": "MIGO Migraine Tracker",
+    "archetype": "Health Insights and Prediction Application",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0179_Horizon pay",
+    "project_name": "Horizon pay",
+    "archetype": "Stablecoin Payment Gateway",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0180_Shypt",
+    "project_name": "Shypt",
+    "archetype": "Privacy-Preserving E-commerce Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0182_FLIPgo",
+    "project_name": "FLIPgo",
+    "archetype": "On-chain Trading Live Streaming Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0185_LuminaCare",
+    "project_name": "LuminaCare",
+    "archetype": "Patient Health Record Manager",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 5
+  },
+  {
+    "project_id": "0186_AXIOM6",
+    "project_name": "AXIOM6",
+    "archetype": "AI Agent Finance Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0187_Trezo AI",
+    "project_name": "Trezo AI",
+    "archetype": "On-chain Treasury Operating System",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0188_Viajax",
+    "project_name": "Viajax",
+    "archetype": "Programmable Checkout Infrastructure",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0192_Aegis",
+    "project_name": "Aegis",
+    "archetype": "Depeg Prevention Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0198_The Unmuted",
+    "project_name": "The Unmuted",
+    "archetype": "Anonymous Crisis Support Application",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0200_Cryptara Conquest",
+    "project_name": "Cryptara Conquest",
+    "archetype": "Player vs Environment Adventure Game",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0208_leverbrain",
+    "project_name": "leverbrain",
+    "archetype": "AI Skill Marketplace",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0211_Barter",
+    "project_name": "Barter",
+    "archetype": "Cross-Border Payments Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 8
+  },
+  {
+    "project_id": "0215_Peerza — Social Investing network on Solana",
+    "project_name": "Peerza — Social Investing network on Solana",
+    "archetype": "Gamified Financial Education Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0216_Praetor",
+    "project_name": "Praetor",
+    "archetype": "On-chain Operational Security Gateway",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0219_Nomu",
+    "project_name": "Nomu",
+    "archetype": "E-commerce Operations Automation Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0221_Pay Money",
+    "project_name": "Pay Money",
+    "archetype": "Peer-to-Peer Crypto-Fiat Exchange",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0222_DodoArc",
+    "project_name": "DodoArc",
+    "archetype": "AI Spend Control Layer",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0224_True Deal",
+    "project_name": "True Deal",
+    "archetype": "Gamified Commitment Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 8
+  },
+  {
+    "project_id": "0228_Flowback",
+    "project_name": "Flowback",
+    "archetype": "MEV Cashback Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0229_Bynomo",
+    "project_name": "Bynomo",
+    "archetype": "Binary Options Trading Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0232_GetFi",
+    "project_name": "GetFi",
+    "archetype": "Mobile Runner Game with On-chain Rewards",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0235_Starstone",
+    "project_name": "Starstone",
+    "archetype": "Collectible Card Game",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 8
+  },
+  {
+    "project_id": "0236_openKMS",
+    "project_name": "openKMS",
+    "archetype": "Digital Asset Key Management System",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0237_Crowd",
+    "project_name": "Crowd",
+    "archetype": "Group Capital Pooling Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0238_The Pit",
+    "project_name": "The Pit",
+    "archetype": "AI Agent Competition Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 9
+  },
+  {
+    "project_id": "0239_Hussar",
+    "project_name": "Hussar",
+    "archetype": "DeFi Trading Terminal",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 11
+  },
+  {
+    "project_id": "0249_Instinct",
+    "project_name": "Instinct",
+    "archetype": "Thematic Portfolio Manager",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0251_OneHeart Protocol",
+    "project_name": "OneHeart Protocol",
+    "archetype": "On-chain Impact Incentive Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0252_PlantGo",
+    "project_name": "PlantGo",
+    "archetype": "Gamified mobile application for real-world discovery and collection.",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0253_Accural",
+    "project_name": "Accural",
+    "archetype": "AI Agent Financial Coordination Protocol",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0257_Longshot Finance",
+    "project_name": "Longshot Finance",
+    "archetype": "Tokenized Real World Asset Exchange",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 10
+  },
+  {
+    "project_id": "0258_SwarmDojo",
+    "project_name": "SwarmDojo",
+    "archetype": "AI Agent Prediction Game",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0259_TokenForge",
+    "project_name": "TokenForge",
+    "archetype": "Security Token Issuance and Management Tooling",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0265_Neko",
+    "project_name": "Neko",
+    "archetype": "RWA Capital Routing Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0267_CYNIC",
+    "project_name": "CYNIC",
+    "archetype": "AI Judgment Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0270_ZazulWorld STS",
+    "project_name": "ZazulWorld STS",
+    "archetype": "Decentralized Finance Yield Product",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 13
+  },
+  {
+    "project_id": "0273_VidChain",
+    "project_name": "VidChain",
+    "archetype": "Platform for verifying and proving ownership of digital media content.",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 14
+  },
+  {
+    "project_id": "0274_BlinkProof",
+    "project_name": "BlinkProof",
+    "archetype": "Digital Provenance Attestation System",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  },
+  {
+    "project_id": "0279_NOISE",
+    "project_name": "NOISE",
+    "archetype": "Collaborative Music Platform",
+    "same_tech_diff_product": 14,
+    "same_product_diff_tech": 14,
+    "same_market_diff_product": 12
+  }
+]
